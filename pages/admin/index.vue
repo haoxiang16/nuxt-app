@@ -1,9 +1,9 @@
+<script setup></script>
 
 <template>
   <div>
-    <h1>
-      Page: index
-    </h1>
+    Page: admin/index
   </div>
 </template>
+
 <style scoped></style>
